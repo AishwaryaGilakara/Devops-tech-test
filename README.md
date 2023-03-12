@@ -12,7 +12,7 @@
 
 1. Download and unpack the Terraform package from the following link: https://github.com/AishwaryaGilakara/Devops-tech-test by pressing the green link: "Clone or download"
 ##How to clone code to local##
-Open the Gitbash where you want to clone code in local, give this command "git clonegit@github.com:AishwaryaGilakara/Devops-tech-test.git"
+Open the Gitbash where you want to clone code in local, give this command "git clone git@github.com:AishwaryaGilakara/Devops-tech-test.git"
 2. Open VSCode an Place the cloned Terraform folder in your working directory.
 3. Open main.tf file, inside the file need to change the variables project_id and credentials_file
 4. Example- Project_id="assesment-380119", credentials_file= "C:/Users/AISHWARYA/downloads/assesment-380119-51ff0c05ebf8.json"
