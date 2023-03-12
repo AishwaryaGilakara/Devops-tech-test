@@ -1,12 +1,12 @@
 # Devops-tech-test code is available in link: https://github.com/AishwaryaGilakara/Devops-tech-test
 # Here used trial version of the GCP console,credit is 300GB as per task can't create 3 nodes, because 1 node consumes 100GB.So, mentioned 2 nodes in this code. 
 
-#####   SYSTEM REQUIREMENTS     #####
+#SYSTEM REQUIREMENTS#
 
-# Runs on windows
-# GCP console link: https://console.cloud.google.com
-# VSCode
-# Terraform
+1. Runs on windows
+2. GCP console link: https://console.cloud.google.com
+3. VSCode
+4. Terraform
 
 #####    RUNNING DEVOPS-TECH-TEST    #########
 
