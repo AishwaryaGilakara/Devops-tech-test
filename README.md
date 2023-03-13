@@ -1,14 +1,14 @@
 # Devops-tech-test code is available in link: https://github.com/AishwaryaGilakara/Devops-tech-test
 # Here I have used the trial version of the GCP , which comes with limit. As per the task requirements, I was unable to create 3 nodes as each node consumes 100GB. Therefore, I specified 2 nodes in the code. 
 
-####    SYSTEM REQUIREMENTS ####
+## SYSTEM REQUIREMENTS
 
 1. Runs on windows
 2. GCP console link: https://console.cloud.google.com
 3. VSCode
 4. Terraform
 
-####  In this project this terraform is doing mention activities  ####
+##  In this project this terraform is doing mention activities
 ## Task 1
 1. Its creating private` K8s cluster on GKE
 2. It should be creating a `new VPC`,with subnet will created in the london region with cluster CIDR ranges in the 'RFC1918 24-bit block'
