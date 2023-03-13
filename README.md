@@ -1,5 +1,5 @@
 # Devops-tech-test code is available in link: https://github.com/AishwaryaGilakara/Devops-tech-test
-# Here I have used the trial version of the GCP , which came with a 250GB credit. As per the task requirements, I was unable to create 3 nodes as each node consumes 100GB. Therefore, I specified 2 nodes in the code. 
+# Here I have used the trial version of the GCP , which comes with limit. As per the task requirements, I was unable to create 3 nodes as each node consumes 100GB. Therefore, I specified 2 nodes in the code. 
 
 ####    SYSTEM REQUIREMENTS ####
 
