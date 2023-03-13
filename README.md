@@ -21,7 +21,7 @@ In the same Terraform working directory, code is generating below function:
 3. All the supporting documents are under module directory.
 
 
-#####    RUNNING DEVOPS-TECH-TEST  #####
+## RUNNING DEVOPS-TECH-TEST
 
 1. Download and unpack the Terraform package from the following link: https://github.com/AishwaryaGilakara/Devops-tech-test by pressing the green link: "Clone or download"
 2. Open Gitbash in the desired directory where you want to clone the code locally. To clone the code, use the command "git clone git@github.com:AishwaryaGilakara/Devops-tech-test.git".
