@@ -8,6 +8,19 @@
 3. VSCode
 4. Terraform
 
+####  In this project this terraform is doing mention activities  ####
+## Task 1
+1. Its creating private` K8s cluster on GKE
+2. It should be creating a `new VPC`,with subnet will created in the london region with cluster CIDR ranges in the 'RFC1918 24-bit block'
+3. Created two node-pools, one with 3 nodes without auto-scaling, another with 0 node by default with auto-scaling enabled. which is to use preemptible nodes4.
+6. It Allows outbound internet access to the private cluster without assigning externalIP addresses to it
+## Task 2
+In the same Terraform working directory, code is generating below function:
+1. Creating new big query dataset called vmo2_tech_test 
+2. Creating a local module that assigns specific roles to specific datasets using google_bigquery_dataset_access resource and access those with my code.
+3. All the supporting documents are under module directory.
+
+
 #####    RUNNING DEVOPS-TECH-TEST  #####
 
 1. Download and unpack the Terraform package from the following link: https://github.com/AishwaryaGilakara/Devops-tech-test by pressing the green link: "Clone or download"
