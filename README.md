@@ -1,5 +1,5 @@
 # Devops-tech-test code is available in link: https://github.com/AishwaryaGilakara/Devops-tech-test
-# Here I have used the trial version of the GCP , which comes with limit. 
+# Here I have used the trial version of the GCP.
 ## SYSTEM REQUIREMENTS
 
 1. Runs on windows
