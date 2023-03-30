@@ -1,6 +1,5 @@
 # Devops-tech-test code is available in link: https://github.com/AishwaryaGilakara/Devops-tech-test
-# Here I have used the trial version of the GCP , which comes with limit. As per the task requirements, I was unable to create 3 nodes as each node consumes 100GB. Therefore, I specified 2 nodes in the code. 
-
+# Here I have used the trial version of the GCP , which comes with limit. 
 ## SYSTEM REQUIREMENTS
 
 1. Runs on windows
@@ -12,7 +11,7 @@
 ## Task 1
 1. Its creating private` K8s cluster on GKE
 2. It should be creating a `new VPC`,with subnet will created in the london region with cluster CIDR ranges in the 'RFC1918 24-bit block'
-3. Created two node-pools, one with 3 nodes without auto-scaling, another with 0 node by default with auto-scaling enabled. which is to use preemptible nodes4.
+3. Created two node-pools, one with 2 nodes without auto-scaling, another with 0 node by default with auto-scaling enabled. which is to use preemptible nodes4.
 6. It Allows outbound internet access to the private cluster without assigning externalIP addresses to it
 ## Task 2
 In the same Terraform working directory, code is generating below function:
